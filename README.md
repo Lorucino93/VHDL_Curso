@@ -43,7 +43,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 - Audiencia Objetivo
 - Estructura del Libro
 
----
 
 ### **Parte I: Fundamentos de VHDL y Diseño Digital**
 
@@ -59,7 +58,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 
 **Capítulo 6: Buenas Prácticas y Estilos de Codificación**
 
----
 
 ### **Parte II: Arquitecturas y Sistemas en FPGA**
 
@@ -73,7 +71,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 
 **Capítulo 11: Diseño de Sistemas Multiprocesador en FPGA**
 
----
 
 ### **Parte III: Programación en C para Microcontroladores**
 
@@ -87,7 +84,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 
 **Capítulo 16: Sistemas Operativos de Tiempo Real (RTOS)**
 
----
 
 ### **Parte IV: Integración de VHDL y Programación en C**
 
@@ -99,7 +95,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 
 **Capítulo 20: Optimización y Síntesis**
 
----
 
 ### **Parte V: Proyectos Avanzados y Aplicaciones Prácticas**
 
@@ -113,7 +108,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 
 **Capítulo 25: Inteligencia Artificial y Machine Learning en FPGA**
 
----
 
 ### **Anexos**
 
@@ -123,7 +117,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 - **Anexo D:** Tablas y Figuras de Referencia
 - **Anexo E:** Glosario de Términos Avanzados
 
----
 
 ### **Conclusión**
 
@@ -131,7 +124,6 @@ Para seguir este curso necesitarás los siguientes elementos:
 - Importancia de la continua actualización en el campo
 - Invitación a explorar proyectos más avanzados
 
----
 
 ### **Índice Alfabético**
 
