@@ -36,32 +36,105 @@ Para seguir este curso necesitarás los siguientes elementos:
 - **Conocimientos Previos**: No es necesario tener experiencia previa en VHDL, pero se recomienda tener una base en electrónica digital.
 
 ## Capítulos del Curso
-1. **Introducción a las FPGAs y VHDL**  
-   Aprende los conceptos fundamentales de las FPGAs y la sintaxis básica de VHDL.
 
-2. **Entorno de desarrollo**  
-   Configura el entorno necesario para trabajar con FPGAs y VHDL.
+### **Introducción**
 
-3. **Fundamentos de VHDL**  
-   Descubre los elementos básicos de VHDL: tipos de datos, operadores y estructuras.
+- Presentación del Libro
+- Audiencia Objetivo
+- Estructura del Libro
 
-4. **Diseño digital básico**  
-   Implementa circuitos combinacionales y secuenciales en VHDL.
+---
 
-5. **Modelado de sistemas secuenciales**  
-   Desarrolla sistemas más avanzados como máquinas de estado finito y contadores.
+### **Parte I: Fundamentos de VHDL y Diseño Digital**
 
-6. **Interfaces y Periféricos**  
-   Aprende a controlar la entrada y salida de datos con VHDL.
+**Capítulo 1: Introducción al Diseño Digital y VHDL**
 
-7. **Optimización de diseños en VHDL**  
-   Mejora la eficiencia de tus diseños minimizando recursos y mejorando el timing.
+**Capítulo 2: Sintaxis y Estructura de VHDL**
 
-8. **Proyectos avanzados**  
-   Desarrolla proyectos más complejos, incluyendo un procesador básico en VHDL.
+**Capítulo 3: Modelado de Circuitos Combinacionales**
 
-9. **Simulación y verificación de diseños**  
-   Comprueba y depura tus diseños con técnicas de simulación y verificación.
+**Capítulo 4: Modelado de Circuitos Secuenciales**
+
+**Capítulo 5: Estructuras Avanzadas en VHDL**
+
+**Capítulo 6: Buenas Prácticas y Estilos de Codificación**
+
+---
+
+### **Parte II: Arquitecturas y Sistemas en FPGA**
+
+**Capítulo 7: Arquitectura de FPGAs y SoCs**
+
+**Capítulo 8: Memorias en FPGA**
+
+**Capítulo 9: Relojes y Gestión de Temporización**
+
+**Capítulo 10: Interfaces y Periféricos**
+
+**Capítulo 11: Diseño de Sistemas Multiprocesador en FPGA**
+
+---
+
+### **Parte III: Programación en C para Microcontroladores**
+
+**Capítulo 12: Fundamentos de Programación en C**
+
+**Capítulo 13: Arquitectura de Microcontroladores**
+
+**Capítulo 14: Programación de Periféricos**
+
+**Capítulo 15: Comunicaciones en Microcontroladores**
+
+**Capítulo 16: Sistemas Operativos de Tiempo Real (RTOS)**
+
+---
+
+### **Parte IV: Integración de VHDL y Programación en C**
+
+**Capítulo 17: Diseño de SoCs Personalizados**
+
+**Capítulo 18: Interfaz entre Hardware y Software**
+
+**Capítulo 19: Depuración y Verificación**
+
+**Capítulo 20: Optimización y Síntesis**
+
+---
+
+### **Parte V: Proyectos Avanzados y Aplicaciones Prácticas**
+
+**Capítulo 21: Diseño de un Sistema de Control Digital**
+
+**Capítulo 22: Procesamiento de Señales en FPGA**
+
+**Capítulo 23: Implementación de Protocolos de Comunicación Avanzados**
+
+**Capítulo 24: Seguridad en Sistemas Embebidos**
+
+**Capítulo 25: Inteligencia Artificial y Machine Learning en FPGA**
+
+---
+
+### **Anexos**
+
+- **Anexo A:** Introducción a las FPGA Tang Nano 4K y 9K
+- **Anexo B:** Herramientas y Entornos de Desarrollo
+- **Anexo C:** Referencias y Recursos Adicionales
+- **Anexo D:** Tablas y Figuras de Referencia
+- **Anexo E:** Glosario de Términos Avanzados
+
+---
+
+### **Conclusión**
+
+- Resumen de lo aprendido
+- Importancia de la continua actualización en el campo
+- Invitación a explorar proyectos más avanzados
+
+---
+
+### **Índice Alfabético**
+
 
 ## Cómo usar este repositorio
 1. Clona el repositorio:
